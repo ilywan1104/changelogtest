@@ -1,5 +1,12 @@
 # 货拉拉EHR(发布日志) 
 
+ ## 前端web服务，人力前端组
+### [1.7.6](https://github.com/ilywan1104/changelogtest/compare/v1.7.5...v1.7.6) (2021-12-09)
+
+
+### Others
+
+* 修改配置文件 ([444de9f](https://github.com/ilywan1104/changelogtest/commit/444de9fce598131a2dd64389a443e14d000ac4b7))
 
 ### [1.7.5](https://github.com/ilywan1104/changelogtest/compare/v1.7.4...v1.7.5) (2021-12-09)
 
