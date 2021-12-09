@@ -9,3 +9,5 @@ let d = 'ddd1';
 let style = { a: 1, b: 2 };
 
 new URL('https://www.baidu.com');
+
+'ssssssssssssssss'
