@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/ilywan1104/changelogtest/compare/v1.4.2...v1.5.0) (2021-12-09)
+
+
+### Features
+
+* 添加alpha版本发布命令 ([7b1cb11](https://github.com/ilywan1104/changelogtest/commit/7b1cb11edb56e8532ee668d4dd631bfe4c7ed5e1))
+
 ### [1.4.2](https://github.com/ilywan1104/changelogtest/compare/v1.4.1...v1.4.2) (2021-12-09)
 
 ### [1.4.1](https://github.com/ilywan1104/changelogtest/compare/v1.4.0...v1.4.1) (2021-12-09)
