@@ -1,12 +1,13 @@
 {
   "name": "changelogtest",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version && npm run publish",
-    "release:minor": "standard-version -- --release-as minor",
+    "release:minor": "standard-version -- --release-as minor && npm run publish",
+    "release:beta": "standard-version -- --prerelease beta && npm run publish",
     "publish": "git push --follow-tags origin main && npm publish"
   },
   "repository": {
