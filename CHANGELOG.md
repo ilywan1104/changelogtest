@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/ilywan1104/changelogtest/compare/v1.5.2...v1.6.0) (2021-12-09)
+
+
+### Features
+
+* 新增d变量 ([afed768](https://github.com/ilywan1104/changelogtest/commit/afed768f1546e8213bb4796f18a687503f410351))
+
+
+### Bug Fixes
+
+* 修改d变量为ddd1 ([9e5ebb5](https://github.com/ilywan1104/changelogtest/commit/9e5ebb5d6dc1e9fa297c4ab5bb0f35fe079ea25b))
+
+
+### Styling
+
+* 修改样式 ([8bbb206](https://github.com/ilywan1104/changelogtest/commit/8bbb206cbb11e7567128db39da52f746c7871cc4))
+
 ### [1.5.2](https://github.com/ilywan1104/changelogtest/compare/v1.5.1...v1.5.2) (2021-12-09)
 
 
