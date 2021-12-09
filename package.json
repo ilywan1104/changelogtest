@@ -6,8 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "release:minor": "npm run release -- --release-as minor",
-    "prerelease": "npm run release -- --prerelease beta"
+    "release:minor": "npm run release -- --release-as minor"
   },
   "repository": {
     "type": "git",
