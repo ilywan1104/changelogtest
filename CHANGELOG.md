@@ -1,6 +1,19 @@
 # 货拉拉EHR(发布日志) 
 
- ## 前端web服务，人力前端组
+ > 前端web服务，人力前端组; 线上地址：[货拉拉EHR](https://hr.huolala.cn)
+### [2.1.2](https://github.com/ilywan1104/changelogtest/compare/v2.1.1...v2.1.2) (2021-12-09)
+
+
+### Bug Fixes
+
+* 货拉拉EHR(发布日志) ([b178f16](https://github.com/ilywan1104/changelogtest/commit/b178f16c1fa024eb1547ce1e257e7d6e8c7c34db))
+* 货拉拉EHR(发布日志)2222222 ([e3507ac](https://github.com/ilywan1104/changelogtest/commit/e3507acbee98c8f11cd2849cf99bd5f69acccb71))
+
+
+### Others
+
+* 修改配置文件 ([f4d9343](https://github.com/ilywan1104/changelogtest/commit/f4d9343b5530ec9ce240c29fd9d0307067e3a067))
+
 ### [2.1.1](https://github.com/ilywan1104/changelogtest/compare/v2.1.0...v2.1.1) (2021-12-09)
 
 
