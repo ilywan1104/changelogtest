@@ -1,6 +1,13 @@
 # 货拉拉EHR(发布日志) 
 
  > 前端web服务，人力前端组; 线上地址：[货拉拉EHR](https://hr.huolala.cn)
+## [2.3.0](https://github.com/ilywan1104/changelogtest/compare/v2.2.0...v2.3.0) (2021-12-09)
+
+
+### Features
+
+* 新增“得分的肌肤” ([20e0284](https://github.com/ilywan1104/changelogtest/commit/20e02843b94d597d9bd2c26f38bbe00555df9d76))
+
 ## [2.2.0](https://github.com/ilywan1104/changelogtest/compare/v2.1.2...v2.2.0) (2021-12-09)
 
 
