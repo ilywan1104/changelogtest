@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version",
-    "release:minor": "npm run release -- --release-as minor"
+    "release:minor": "npm run release -- --release-as minor",
+    "publish": "git push --follow-tags origin main && npm publish"
   },
   "repository": {
     "type": "git",
