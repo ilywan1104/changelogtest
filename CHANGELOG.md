@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.5.2](https://github.com/ilywan1104/changelogtest/compare/v1.5.1...v1.5.2) (2021-12-09)
+
+
+### Bug Fixes
+
+* prerelease scripts ([21b04ec](https://github.com/ilywan1104/changelogtest/commit/21b04eca82dc423ad3c8400ab9e28f84be34013c))
+
 ### [1.5.1](https://github.com/ilywan1104/changelogtest/compare/v1.5.0...v1.5.1) (2021-12-09)
 
 
