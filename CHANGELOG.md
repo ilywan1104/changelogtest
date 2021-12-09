@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/ilywan1104/changelogtest/compare/v1.1.0...v1.2.0) (2021-12-09)
+
+
+### Features
+
+* add postpublish scripts ([cb7d561](https://github.com/ilywan1104/changelogtest/commit/cb7d5615e5437179b171ddfa21b198803c105ee5))
+* update package.json ([a64cb6c](https://github.com/ilywan1104/changelogtest/commit/a64cb6c3e77509c1d7e970be81aac0bd5b2b284b))
+
+
+### Others
+
+* update package.json ([689efd7](https://github.com/ilywan1104/changelogtest/commit/689efd71ce61a47389396f053661012298f08a9b))
+
 ## [1.1.0](https://github.com/ilywan1104/changelogtest/compare/v1.0.1...v1.1.0) (2021-12-09)
 
 
