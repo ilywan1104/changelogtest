@@ -1,6 +1,8 @@
 # 货拉拉EHR(发布日志) 
 
  ## 前端web服务，人力前端组
+### [1.7.9](https://github.com/ilywan1104/changelogtest/compare/v1.7.8...v1.7.9) (2021-12-09)
+
 ### [1.7.8](https://github.com/ilywan1104/changelogtest/compare/v1.7.7...v1.7.8) (2021-12-09)
 
 ### [1.7.7](https://github.com/ilywan1104/changelogtest/compare/v1.7.6...v1.7.7) (2021-12-09)
