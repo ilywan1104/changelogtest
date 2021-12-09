@@ -1,6 +1,12 @@
-# Changelog
+# 货拉拉EHR(发布日志) 
 
-All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
+
+### [1.7.4](https://github.com/ilywan1104/changelogtest/compare/v1.7.3...v1.7.4) (2021-12-09)
+
+
+### Others
+
+* 修改配置文件 ([de1e72e](https://github.com/ilywan1104/changelogtest/commit/de1e72eec79851a40e134ca33b617ee34330b8c1))
 
 ### [1.7.3](https://github.com/ilywan1104/changelogtest/compare/v1.7.2...v1.7.3) (2021-12-09)
 
