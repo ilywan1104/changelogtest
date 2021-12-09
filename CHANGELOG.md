@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.4.0](https://github.com/ilywan1104/changelogtest/compare/v1.3.0...v1.4.0) (2021-12-09)
+
+
+### Features
+
+* add publish scripts ([2ec4975](https://github.com/ilywan1104/changelogtest/commit/2ec4975600e8f3e08f7a40dc8fc7e0705d784ffc))
+
 ## [1.3.0](https://github.com/ilywan1104/changelogtest/compare/v1.2.0...v1.3.0) (2021-12-09)
 
 
