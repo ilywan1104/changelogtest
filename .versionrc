@@ -1,5 +1,5 @@
 {
-    "header": "# 货拉拉EHR(发布日志) \n\n",
+    "header": "# 货拉拉EHR(发布日志) \n\n ## 前端web服务，人力前端组",
     "types": [
         {
             "type": "chore",
