@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/ilywan1104/changelogtest/compare/v1.2.0...v1.3.0) (2021-12-09)
+
+
+### Features
+
+* update package.json ([e1cb3fb](https://github.com/ilywan1104/changelogtest/commit/e1cb3fb357d986c34efa2ae640709221ef01bb40))
+
+
+### Styling
+
+* package.json 随便提交点东西 ([616918f](https://github.com/ilywan1104/changelogtest/commit/616918f18303c32cf3407ef0cd7976fdf3bd71b4))
+
 ## [1.2.0](https://github.com/ilywan1104/changelogtest/compare/v1.1.0...v1.2.0) (2021-12-09)
 
 
