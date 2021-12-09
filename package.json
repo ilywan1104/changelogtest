@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version && npm run publish",
+    "release": "standard-version -- --release-as major && npm run publish",
     "release:minor": "npm run release -- --release-as 1.6.0 && npm run publish",
     "prerelease": "standard-version -- --prerelease && npm run publish",
     "publish": "git push --follow-tags origin main"
