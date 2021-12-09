@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/ilywan1104/changelogtest/compare/v1.6.0...v1.6.1) (2021-12-09)
+
+
+### Others
+
+* aaaaaa ([11fc9f5](https://github.com/ilywan1104/changelogtest/commit/11fc9f53a184f55261a840baffb931436057af66))
+
 ## [1.6.0](https://github.com/ilywan1104/changelogtest/compare/v1.5.2...v1.6.0) (2021-12-09)
 
 
