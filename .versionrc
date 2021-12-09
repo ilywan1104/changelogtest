@@ -12,5 +12,6 @@
     {"type": "test", "section":"Tests", "hidden": false},
     {"type": "build", "section":"Build System", "hidden": false},
     {"type": "ci", "section":"CI", "hidden":false}
-  ]
+  ],
+  "releaseCommitMessageFormat": "build: v{{currentTag}}版本发布 \n\nCode Source From: Self Code \nDescription: \nJira: # \n市场项目编号（名称）"
 }
