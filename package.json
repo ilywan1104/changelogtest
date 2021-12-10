@@ -18,5 +18,7 @@
     "url": "https://github.com/ilywan1104/changelogtest/issues"
   },
   "homepage": "https://github.com/ilywan1104/changelogtest#readme",
-  "devDependencies": {}
+  "devDependencies": {
+    "release-it": "^14.11.8"
+  }
 }
