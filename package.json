@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "release": "standard-version",
-    "release:major": "standard-version -- --release-as major && npm run pushtags",
+    "release": "release-it",
     "pushtags": "git push --follow-tags origin main"
   },
   "repository": {
@@ -19,7 +18,5 @@
     "url": "https://github.com/ilywan1104/changelogtest/issues"
   },
   "homepage": "https://github.com/ilywan1104/changelogtest#readme",
-  "devDependencies": {
-    "standard-version": "^9.3.2"
-  }
+  "devDependencies": {}
 }
