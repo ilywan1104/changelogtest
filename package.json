@@ -21,9 +21,5 @@
     "url": "https://github.com/ilywan1104/changelogtest/issues"
   },
   "homepage": "https://github.com/ilywan1104/changelogtest#readme",
-  "devDependencies": {
-    "@release-it/conventional-changelog": "^3.3.0",
-    "@release-it/keep-a-changelog": "^2.3.0",
-    "release-it": "^14.11.8"
-  }
+  "devDependencies": {}
 }
