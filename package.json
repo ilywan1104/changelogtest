@@ -7,6 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it",
     "release:dryrun": "release-it --dry-run",
+    "release:stg": "release-it --preRelease=stg",
+    "release:pre": "release-it --preRelease=pre",
     "pushtags": "git push --follow-tags origin main"
   },
   "repository": {
