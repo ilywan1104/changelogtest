@@ -24,5 +24,11 @@
   "devDependencies": {
     "release-it": "^14.11.8",
     "release-it-lerna-changelog": "^4.0.1"
+  },
+  "changelog": {
+    "labels": {
+      "feature": "新功能",
+      "bug": "Bug修复"
+    }
   }
 }
